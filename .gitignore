@@ -1,9 +1,9 @@
 task3_aws/hometask.sh
 task3_aws/moodle2.sh
-task3_aws/.terraform
-task3_aws/terraform.tfstate.backup
-task3_aws/*.tfstate
-task3_aws/*.tfvars
+*/.terraform
+*/terraform.tfstate.backup
+*/*.tfstate
+*/*.tfvars
 task3_aws/config.php
-task3_aws/.terraform.lock.hcl
+*/.terraform.lock.hcl
 terraform.tfvars

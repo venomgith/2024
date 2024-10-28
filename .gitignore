@@ -6,3 +6,4 @@ task3_aws/*.tfstate
 task3_aws/*.tfvars
 task3_aws/config.php
 task3_aws/.terraform.lock.hcl
+terraform.tfvars

@@ -62,6 +62,8 @@ sudo echo "<VirtualHost *:80>
 </VirtualHost>" | sudo tee $conf_file
 sudo service apache2 restart
 
+# Далее настраиваем в GUI через браузер, так как через код он просто напросто не функционирует
+
 # Используем echo для создания файла config.php
 :'moodle_config="/var/www/html/moodle/config.php"
 
